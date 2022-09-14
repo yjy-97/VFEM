@@ -13,7 +13,7 @@ For password, please contact: wangqx@qlu.edu.cn
 We provide OpenFace features for 20 cases and 20 controls
 <br>
 Case group data is stored in the DEP folder<br>
-Control data are stored in the NOR folder
+Control group data are stored in the NOR folder
 <br>
 VFEM.xlsx provides subject number and HAMD score
 <br>
