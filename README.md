@@ -1,6 +1,6 @@
 # Introduction
 <font face=times new roman>
-<font size=5>This is the official data link of 'Analysis and Recognition of Voluntary Facial Expression Mimicry Based on Depression Patients'<br/>
+<font size=5>This is the official data link of 'Analysis and Recognition of Voluntary Facial Expression Mimicry Based on Depressed Patients<br/>
 
 
 # Connect
